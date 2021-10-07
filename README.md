@@ -8,9 +8,7 @@
 ---
 
 #### 💻 Technical Stack
-`C` `C++` `C#` `Java` 
-
-`Unity` 
+`C` `C++` `C#` `Java` `Unity` 
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdtldud95)](https://solved.ac/tjdtldud95/)
